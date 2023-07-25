@@ -1,0 +1,116 @@
+2022-09-05T20:23:02.990988-07:00[GMT-07:00] User: admin Login_Attempt:  Success
+2022-09-05T20:23:17.034788400-07:00[GMT-07:00] User: new Login_Attempt:  Success
+2022-09-05T20:23:58.594922-07:00[GMT-07:00] User: new Login_Attempt:  Success
+2022-09-05T20:26:31.753106900-07:00[GMT-07:00] User: new Login_Attempt:  Success
+2022-09-05T20:28:11.499182600-07:00[GMT-07:00] User: new Login_Attempt:  Success
+2022-09-05T20:28:59.732196600-07:00[GMT-07:00] User: new Login_Attempt:  Success
+2022-09-05T20:30:24.911683100-07:00[GMT-07:00] User: new Login_Attempt:  Success
+2022-09-05T20:31:28.630379500-07:00[GMT-07:00] User: new Login_Attempt:  Success
+2022-09-05T20:33:44.714010700-07:00[GMT-07:00] User: new Login_Attempt:  Success
+2022-09-05T20:34:08.358106800-07:00[GMT-07:00] User: new Login_Attempt:  Success
+2022-09-05T20:35:17.591029500-07:00[GMT-07:00] User: new Login_Attempt:  Success
+2022-09-05T20:36:03.797769600-07:00[GMT-07:00] User: new Login_Attempt:  Success
+2022-09-05T20:37:04.710280400-07:00[GMT-07:00] User: new Login_Attempt:  Success
+2022-09-05T20:37:29.078565100-07:00[GMT-07:00] User: new Login_Attempt:  Success
+2022-09-05T20:58:53.050042200-07:00[GMT-07:00] User: new Login_Attempt:  Success
+2022-09-05T20:59:18.290414900-07:00[GMT-07:00] User: new Login_Attempt:  Success
+2022-09-05T20:59:51.030207100-07:00[GMT-07:00] User: new Login_Attempt:  Success
+2022-09-06T13:28:56.897314400-07:00[GMT-07:00] User: admin Login_Attempt:  Success
+2022-09-06T13:32:50.768010600-07:00[GMT-07:00] User: test Login_Attempt:  Success
+2022-09-06T13:39:19.981359-07:00[GMT-07:00] User: test Login_Attempt:  Success
+2022-09-06T13:44:57.014100100-07:00[GMT-07:00] User: test Login_Attempt:  Failure
+2022-09-06T13:45:00.279020200-07:00[GMT-07:00] User: test Login_Attempt:  Success
+2022-09-06T14:32:24.556841800-07:00[GMT-07:00] User: admin Login_Attempt:  Success
+2022-09-06T14:41:47.606264-07:00[GMT-07:00] User: Ladd Login_Attempt:  Success
+2022-09-10T11:42:07.498751900-07:00[GMT-07:00] User:  Login_Attempt:  Failure
+2022-09-10T11:45:53.201971400-07:00[GMT-07:00] User:  Login_Attempt:  Failure
+2022-09-10T11:49:01.235071-07:00[GMT-07:00] User:  Login_Attempt:  Failure
+2022-09-10T11:49:52.687051-07:00[GMT-07:00] User:  Login_Attempt:  Failure
+2022-09-10T11:55:03.622558-07:00[GMT-07:00] User:  Login_Attempt:  Failure
+2022-09-10T12:01:40.787717800-07:00[GMT-07:00] User:  Login_Attempt:  Failure
+2022-09-10T12:07:32.535203400-07:00[GMT-07:00] User:  Login_Attempt:  Failure
+2022-09-10T12:07:52.005652-07:00[GMT-07:00] User:  Login_Attempt:  Failure
+2022-09-10T12:08:32.173399400-07:00[GMT-07:00] User:  Login_Attempt:  Failure
+2022-09-10T12:08:47.486028900-07:00[GMT-07:00] User: Ladd Login_Attempt:  Success
+2022-09-10T12:37:23.443886700-07:00[GMT-07:00] User: Ladd Login_Attempt:  Success
+2022-09-10T12:51:59.536384300-07:00[GMT-07:00] User: Ladd Login_Attempt:  Success
+2022-09-10T12:52:49.849757400-07:00[GMT-07:00] User: Ladd Login_Attempt:  Success
+2022-09-10T12:54:16.080057500-07:00[GMT-07:00] User: Ladd Login_Attempt:  Success
+2022-09-10T12:54:45.229737900-07:00[GMT-07:00] User: Ladd Login_Attempt:  Success
+2022-09-10T13:01:29.084056-07:00[GMT-07:00] User: Ladd Login_Attempt:  Success
+2022-09-10T13:21:56.365792400-07:00[GMT-07:00] User: Ladd Login_Attempt:  Success
+2022-09-10T13:23:04.089091500-07:00[GMT-07:00] User: ladd Login_Attempt:  Success
+2022-09-10T13:25:13.344143600-07:00[GMT-07:00] User: ladd Login_Attempt:  Success
+2022-09-10T13:27:31.832803900-07:00[GMT-07:00] User: ladd Login_Attempt:  Success
+2022-09-10T13:46:53.218949700-07:00[GMT-07:00] User: ladd Login_Attempt:  Success
+2022-09-11T09:10:03.082046400-07:00[GMT-07:00] User: Ladd Login_Attempt:  Success
+2022-09-11T09:19:50.928030500-07:00[GMT-07:00] User: Ladd Login_Attempt:  Success
+2022-09-11T09:22:24.128919600-07:00[GMT-07:00] User: Ladd Login_Attempt:  Success
+2022-09-11T09:26:58.462243300-07:00[GMT-07:00] User: Ladd Login_Attempt:  Success
+2022-09-11T09:47:31.361794200-07:00[GMT-07:00] User: Ladd Login_Attempt:  Success
+2022-09-11T09:49:14.495985900-07:00[GMT-07:00] User: Ladd Login_Attempt:  Success
+2022-09-11T09:50:02.035084300-07:00[GMT-07:00] User: LAdd Login_Attempt:  Success
+2022-09-11T09:51:31.598692900-07:00[GMT-07:00] User: Ladd Login_Attempt:  Success
+2022-09-11T10:17:58.182848100-07:00[GMT-07:00] User: Ladd Login_Attempt:  Success
+2022-09-11T10:47:51.917288300-07:00[GMT-07:00] User: User Login_Attempt:  Success
+2022-09-11T10:50:45.764706500-07:00[GMT-07:00] User: Ladd Login_Attempt:  Success
+2022-09-11T10:52:16.592182800-07:00[GMT-07:00] User: ladd Login_Attempt:  Success
+2022-09-11T10:55:36.002385700-07:00[GMT-07:00] User: Ladd Login_Attempt:  Success
+2022-09-11T10:56:47.899138800-07:00[GMT-07:00] User: Ladd Login_Attempt:  Success
+2022-09-11T10:58:45.910832300-07:00[GMT-07:00] User: ladd Login_Attempt:  Success
+2022-09-11T11:07:55.918954-07:00[GMT-07:00] User: Ladd Login_Attempt:  Success
+2022-09-11T11:46:04.471150800-07:00[GMT-07:00] User: Ladd Login_Attempt:  Success
+2022-09-11T12:20:29.564409300-07:00[GMT-07:00] User: ladd Login_Attempt:  Success
+2022-09-11T12:32:30.606733400-07:00[GMT-07:00] User: user Login_Attempt:  Success
+2022-09-11T12:33:29.817857-07:00[GMT-07:00] User: user Login_Attempt:  Success
+2022-09-11T12:34:56.226975700-07:00[GMT-07:00] User: user Login_Attempt:  Success
+2022-09-11T12:35:06.850749900-07:00[GMT-07:00] User: Ladd Login_Attempt:  Success
+2022-09-11T12:37:43.678901600-07:00[GMT-07:00] User: ladd Login_Attempt:  Failure
+2022-09-11T12:37:46.090848900-07:00[GMT-07:00] User: ladd Login_Attempt:  Success
+2022-09-11T13:16:19.144232800-07:00[GMT-07:00] User: ladd Login_Attempt:  Success
+2022-09-11T13:18:23.105392100-07:00[GMT-07:00] User: ladd Login_Attempt:  Success
+2022-09-11T13:24:57.861390800-07:00[GMT-07:00] User: ladd Login_Attempt:  Success
+2022-09-11T14:43:01.009264100-07:00[GMT-07:00] User: ladd Login_Attempt:  Success
+2022-09-12T05:01:23.893450100-07:00[GMT-07:00] User: Ladd Login_Attempt:  Success
+2022-09-12T06:34:58.085365-07:00[GMT-07:00] User: ladd Login_Attempt:  Success
+2022-09-12T06:39:19.109366400-07:00[GMT-07:00] User: ladd Login_Attempt:  Success
+2022-09-12T09:50:43.092263100-04:00[America/Port-au-Prince] User: Ladd Login_Attempt:  Success
+2022-09-12T09:05:22.144658900-05:00[America/Chicago] User: ladd Login_Attempt:  Success
+2022-09-12T09:23:53.944633800-05:00[America/Chicago] User: LAdd Login_Attempt:  Success
+2022-09-12T09:35:54.082547200-05:00[America/Chicago] User: ladd Login_Attempt:  Success
+2022-09-12T09:39:38.432107900-05:00[America/Chicago] User: ladd Login_Attempt:  Success
+2022-09-12T09:47:21.464343400-05:00[America/Chicago] User: ladd Login_Attempt:  Success
+2022-09-12T09:48:45.454616200-05:00[America/Chicago] User: ladd Login_Attempt:  Success
+2022-09-12T10:00:09.332018600-05:00[America/Chicago] User: ladd Login_Attempt:  Success
+2022-09-12T10:03:55.781253300-05:00[America/Chicago] User: ladd Login_Attempt:  Success
+2022-09-12T10:04:57.356850500-05:00[America/Chicago] User: ladd Login_Attempt:  Success
+2022-09-12T10:07:28.748485100-05:00[America/Chicago] User: ladd Login_Attempt:  Success
+2022-09-12T10:07:58.963549-05:00[America/Chicago] User: ladd Login_Attempt:  Success
+2022-09-12T10:08:33.260573400-05:00[America/Chicago] User: ladd Login_Attempt:  Success
+2022-09-12T10:09:01.831711-05:00[America/Chicago] User:  Login_Attempt:  Failure
+2022-09-12T10:09:04.741247900-05:00[America/Chicago] User:  Login_Attempt:  Failure
+2022-09-12T10:09:31.457981-05:00[America/Chicago] User: ladd Login_Attempt:  Success
+2022-09-12T10:10:05.438360700-05:00[America/Chicago] User: ladd Login_Attempt:  Success
+2022-09-12T10:10:59.758669400-05:00[America/Chicago] User: ladd Login_Attempt:  Success
+2022-09-12T10:25:45.177835700-05:00[America/Chicago] User: ladd Login_Attempt:  Success
+2022-09-12T20:03:59.094446700+03:00[Asia/Baghdad] User: ladd Login_Attempt:  Success
+2022-09-12T18:32:18.409928700-05:00[America/Chicago] User: Ladd Login_Attempt:  Success
+2022-09-12T18:33:30.943610500-05:00[America/Chicago] User:  Login_Attempt:  Failure
+2022-09-12T18:35:16.938790700-05:00[America/Chicago] User: ladd Login_Attempt:  Success
+2022-09-14T14:02:13.773746300-05:00[America/Chicago] User: ladd Login_Attempt:  Success
+2022-09-14T12:03:22.029672900-07:00[America/Los_Angeles] User: ladd Login_Attempt:  Success
+2022-09-14T12:11:20.782146700-07:00[America/Los_Angeles] User: ladd Login_Attempt:  Success
+2022-09-14T12:12:10.516980800-07:00[America/Los_Angeles] User: ladd Login_Attempt:  Success
+2022-09-14T12:20:40.317997600-07:00[America/Los_Angeles] User:  Login_Attempt:  Failure
+2022-09-14T14:42:22.084811900-05:00[America/Chicago] User: ladd Login_Attempt:  Success
+2022-09-14T14:45:14.459855500-05:00[America/Chicago] User: ladd Login_Attempt:  Success
+2022-09-14T14:47:34.852578800-05:00[America/Chicago] User: ladd Login_Attempt:  Success
+2022-09-14T14:48:50.145324200-05:00[America/Chicago] User: ladd Login_Attempt:  Success
+2022-09-14T14:50:06.591836500-05:00[America/Chicago] User: ladd Login_Attempt:  Success
+2022-09-14T14:50:50.200224800-05:00[America/Chicago] User: ladd Login_Attempt:  Success
+2022-09-14T15:15:08.009315600-05:00[America/Chicago] User: ladd Login_Attempt:  Success
+2022-09-14T15:16:17.660086600-05:00[America/Chicago] User: ladd Login_Attempt:  Success
+2022-09-14T15:18:52.986157900-05:00[America/Chicago] User: ladd Login_Attempt:  Success
+2022-09-14T15:20:31.235818900-05:00[America/Chicago] User: ladd Login_Attempt:  Success
+2022-09-14T15:33:17.953025100-05:00[America/Chicago] User: ladd Login_Attempt:  Success
+2022-09-14T15:36:28.508194400-05:00[America/Chicago] User: ladd Login_Attempt:  Success
